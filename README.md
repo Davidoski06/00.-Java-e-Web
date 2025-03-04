@@ -1,7 +1,7 @@
 # 00.-Java-e-Web
 
-DESCRIZIONE
-Questo progetto è un'applicazione web sviluppata in Java, basata su Servlet e JSP. La gestione delle dipendenze e la compilazione avviene tramite Maven, e il progetto genera un file WAR pronto per il deployment su un server web.
+DESCRIZIONE:
+Questo progetto è un'applicazione web sviluppata in Java, basata su Servlet e JSP. La compilazione avviene tramite Maven, e il progetto genera un file WAR pronto per essere trasferito e configurato su un server web in modo che l'applicazione possa essere eseguita (deployment).
 
 COMPONENTI:
 Java (versione 8)
